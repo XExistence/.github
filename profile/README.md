@@ -1,3 +1,10 @@
+
+<p align="center">
+<p align="center"><img src="assets/org_logo.png" width="100"></p>
+  <h1 align="center">Existence</h1>
+  <p align="center">Every second counds.</p>
+</p>
+
 ## Hi there 👋
 
 <!--
