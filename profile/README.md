@@ -1,11 +1,15 @@
 
 <p align="center">
-<p align="center"><img src="assets/org_logo.png" width="100"></p>
-  <h1 align="center">Existence</h1>
+<p align="center"><img src="assets/org_logo.png" width="100" style="border: 1px solid gray;border-radius: 25px;"></p>
+  <p align="center" style="font-size:35px">Existence</p>
   <p align="center">Every second counds.</p>
 </p>
 
-## Hi there 👋
+<p align="center"><img src="assets/apps.png" width="1020" style="border: 1px solid gray;
+  border-radius: 25px;"></p>
+</p>
+
+
 
 <!--
 
