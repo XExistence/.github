@@ -10,7 +10,7 @@
 </div>
 
 
-# **Existence Products: Enhancing Lives, Inspiring Innovation**
+<div align="center">
 
 ## **Vision**
 
@@ -29,6 +29,8 @@ We exist to make the concept of existence better, delving into what it means to 
 Our commitment to questioning the status quo and challenging assumptions fuels a journey of endless discovery. Through innovation, we aim to inspire individuals and communities, empowering them to lead better lives and unlock their full potential.
 
 At Existence Products, we dare to dream, envision a brighter future, and inspire a world where every life is enriched by the wonders of our creations. Together, we envision a world of endless possibilities, where each moment is cherished and celebrated.
+
+</div>
 <!--
 
 **Here are some ideas to get you started:**
