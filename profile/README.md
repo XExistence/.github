@@ -5,7 +5,7 @@
   <p align="center">Every second counds.</p>
 </p>
 
-<p align="center"><img src="https://github.com/XExistence/.github/blob/main/profile/assets/apps.png" width="1020" style="border: 1px solid gray;
+<p align="center"><img src="https://github.com/XExistence/.github/blob/main/profile/assets/org_two.png" width="1020" style="border: 1px solid gray;
   border-radius: 25px;"></p>
 </p>
 
